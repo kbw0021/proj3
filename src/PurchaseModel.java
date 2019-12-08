@@ -3,7 +3,7 @@ public class PurchaseModel {
     public double mPrice, mQuantity, mCost, mTax, mTotal;
     public String mDate;
 
-    public String toString() {
+    public String toString() { 
         StringBuilder sb = new StringBuilder("(");
         sb.append(mPurchaseID).append(",");
         sb.append(mCustomerID).append(",");
