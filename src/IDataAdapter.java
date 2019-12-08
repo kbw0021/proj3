@@ -1,6 +1,6 @@
 
 public interface IDataAdapter {
-
+ 
     public static final int CONNECTION_OPEN_OK = 100;
     public static final int CONNECTION_OPEN_FAILED = 101;
 
