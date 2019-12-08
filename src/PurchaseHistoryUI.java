@@ -20,7 +20,7 @@ public class PurchaseHistoryUI {
         this.user = user;
 
         this.view = new JFrame();
-
+ 
         view.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 
         view.setTitle("View Purchase History - Customer View");
