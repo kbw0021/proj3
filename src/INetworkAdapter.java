@@ -5,3 +5,4 @@ public interface INetworkAdapter {
 
     public MessageModel exchange(MessageModel msg, String host, int port) throws Exception;
 }
+ 
