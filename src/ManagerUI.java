@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class ManagerUI {
+public class ManagerUI { 
     public JFrame view;
 
     public JButton btnManageCustomer = new JButton("Manage Customers");
