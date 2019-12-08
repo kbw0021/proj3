@@ -7,7 +7,7 @@ public class NetworkDataAdapter implements IDataAdapter {
 
     Gson gson = new Gson();
     SocketNetworkAdapter adapter = new SocketNetworkAdapter();
-    MessageModel msg = new MessageModel();
+    MessageModel msg = new MessageModel(); 
 
     @Override
     public int connect(String dbfile) {
