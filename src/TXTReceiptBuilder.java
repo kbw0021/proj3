@@ -1,7 +1,7 @@
 public class TXTReceiptBuilder implements IReceiptBuilder {
 
     StringBuilder sb = new StringBuilder();
-
+ 
     @Override
     public void appendHeader(String header) {
         sb.append(header).append("\n");
