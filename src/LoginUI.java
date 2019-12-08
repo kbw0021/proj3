@@ -25,7 +25,7 @@ public class LoginUI {
 
     public LoginUI() {
         this.view = new JFrame();
-
+ 
         view.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 
         view.setTitle("Login");
