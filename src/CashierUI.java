@@ -4,7 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class CashierUI {
-    public JFrame view;
+    public JFrame view; 
 
     public JButton btnAddPurchase = new JButton("Add New Purchase");
 
