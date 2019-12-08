@@ -36,7 +36,7 @@ public class MainUI {
         panelButtons.add(btnManagePurchase);
         panelButtons.add(btnAddProduct);
 
-        view.getContentPane().add(panelButtons);
+        view.getContentPane().add(panelButtons); 
 
 
         btnAddPurchase.addActionListener(new ActionListener() {
