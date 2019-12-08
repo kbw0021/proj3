@@ -5,7 +5,7 @@ public class OracleDataAdapter implements IDataAdapter {
         return CONNECTION_OPEN_OK;
     }
 
-    public int disconnect() {
+    public int disconnect() { 
         // ...
         return CONNECTION_CLOSE_OK;
 
